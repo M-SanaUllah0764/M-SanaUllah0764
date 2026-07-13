@@ -1,11 +1,11 @@
 <!-- BANNER -->
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=M%20SanaUllah&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=Senior%20MERN%20Stack%20Developer%20%7C%204%2B%20Years%20Experience&descSize=18&descAlignY=75"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=M%20SanaUllah&fontSize=45&fontColor=ffffff&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%204%2B%20Years%20Experience&descSize=18&descAlignY=75"/>
 </p>
 
 <!-- TYPING INTRO -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Senior+MERN+Stack+Developer;4%2B+Years+Building+Production+Systems;Scalable+Backend+Architecture;REST+%26+Microservices+Specialist;Clean+Code+%7C+Clean+Architecture;Mentoring+%26+Open+Source&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=MERN+Stack+Developer;4%2B+Years+Building+Production+Systems;React+%7C+Next.js+%7C+React+Native;Node.js+%7C+Express+%7C+Firebase+%7C+GCP;Payments+%7C+Auth+%7C+Real-Time+Systems;Production-Ready+Architecture&center=true&width=600&height=45&color=58A6FF&vCenter=true&size=22">
 </p>
 
 <p align="center">
@@ -18,38 +18,51 @@
 
 # 👨‍💻 About Me
 
-Full Stack Engineer with **4+ years of hands-on experience** designing, building, and shipping production-grade web applications on the MERN stack. I specialize in backend architecture — high-throughput REST APIs, authentication systems, and microservices that scale.
+Full Stack MERN Developer with **4+ years of experience** shipping production-grade web and mobile applications — from multi-step booking platforms and admin panels to social apps and real-time systems. I think about scalability, maintainability, and how features behave under real traffic before writing the first line of code.
 
-- 🔭 Currently building **scalable Node.js microservices** and refining API architecture patterns
-- 🏗️ Strong focus on **system design, database modeling, and performance optimization**
-- 🧪 Advocate of **testing, code reviews, and CI/CD-driven delivery**
-- 🤝 Open to **collaborating on open-source** and backend-heavy products
+- 🔭 Building **full-stack products** across web (React/Next.js) and mobile (React Native/Expo)
+- 💳 Deep experience with **payment integrations** — Stripe, Stripe Connect, PayPal Subscriptions, RevenueCat
+- ☁️ Deploying and scaling on **GCP, Firebase, Vercel, and DigitalOcean**
+- 🏗️ Advocate of **clean architecture, reusable components, and backend + frontend validation**
+- 🎯 Motto: *"Give me the production approach"* — complete solutions, not partial ones
 
 ```javascript
 const sanaUllah = {
-    title: "Senior MERN Stack Developer",
+    title: "MERN Stack Developer",
     experience: "4+ years",
-    architecture: ["Microservices", "REST", "MVC", "Event-Driven"],
-    backend: ["Node.js", "Express.js", "JWT/OAuth2", "WebSockets", "Redis"],
-    frontend: ["React", "Redux Toolkit", "Context API", "Responsive UI"],
-    databases: ["MongoDB", "Mongoose", "Aggregation Pipelines", "Indexing"],
-    devOps: ["Docker", "CI/CD", "Nginx", "PM2", "Linux"],
-    practices: ["TDD", "Code Review", "Agile/Scrum", "Git Flow"],
-    currentFocus: ["System Design", "Distributed Systems", "Caching Strategies"],
-    philosophy: "Ship fast, but never ship fragile."
+    frontend: ["React", "Next.js", "React Native", "Expo", "Tailwind CSS", "Ant Design", "Three.js"],
+    backend: ["Node.js", "Express.js", "REST APIs", "WebSockets", "JWT Auth", "FastAPI"],
+    databases: ["MongoDB", "PostgreSQL", "Prisma", "Firestore"],
+    cloud: ["GCP", "Firebase", "App Engine", "Vercel", "DigitalOcean", "Cloudflare"],
+    payments: ["Stripe", "Stripe Connect", "PayPal Subscriptions", "RevenueCat"],
+    integrations: ["Google Maps API", "FCM Push Notifications", "Puppeteer", "Google OAuth"],
+    philosophy: "Build for production, not just for the demo."
 };
 ```
 
 ---
 
-# 💼 Professional Experience Highlights
+# 🚀 Featured Projects
 
-- ⚙️ Designed and maintained **RESTful APIs serving thousands of daily requests** with optimized response times
-- 🔐 Implemented **secure authentication & authorization** flows — JWT, refresh tokens, OAuth2, RBAC
-- 🗄️ Modeled and optimized **MongoDB schemas** with indexing and aggregation pipelines for reporting-heavy workloads
-- 📦 Containerized services with **Docker** and streamlined deployments through CI/CD pipelines
-- ⚡ Reduced API latency through **Redis caching, query optimization, and connection pooling**
-- 👥 Collaborated in **Agile teams** — sprint planning, code reviews, and mentoring junior developers
+| Project | What I Built | Stack |
+| --- | --- | --- |
+| **Velocity — Cargo Booking Platform** | Multi-step booking flow with pickup/delivery addresses, shipping calculator, multi-package support, weight/dimension validation, Google Maps Autocomplete with country restrictions, payments, and a full admin dashboard | React, Node.js, Express, MongoDB, Stripe, Google Maps API |
+| **PlatinumMeds — Admin Panel** | Complete backend API integration: FAQ CRUD, admin profile & password management, status management, audience filtering, delete confirmations | React, Node.js, Express, REST APIs |
+| **Cumberland Social** | Business pages, reviews system, business feed, and community features for a social platform | React, Node.js, MongoDB |
+| **TopSekk — Backend** | Real-time backend, architected from WebSockets to an optimized 30s polling system for reliability at scale | Node.js, Firebase, Firestore |
+| **CamCut** | Short-video social application (TikTok-style) | React Native, Node.js, Firebase |
+| **Parking Management System** | System architecture for RFID, ANPR/LPR cameras, barriers, POS & fiscal receipts with a cross-platform desktop app | Electron/Tauri, Node.js |
+
+---
+
+# 💼 What I Bring to a Team
+
+- ⚙️ **End-to-end delivery** — from database schema and API design to pixel-perfect responsive UI
+- 💳 **Payment systems in production** — subscriptions, marketplace payouts (Stripe Connect), mobile IAP (RevenueCat)
+- 🔐 **Authentication & authorization** — JWT, Google OAuth, role-based access, secure session handling
+- 📍 **Third-party integrations** — Google Maps, FCM push notifications, email validation, web scraping with Puppeteer
+- 📈 **Scalability-first mindset** — load balancing, caching, API architecture designed for high traffic
+- 📋 **Professional communication** — daily work reports, realistic estimates, clear client updates
 
 ---
 
@@ -57,48 +70,37 @@ const sanaUllah = {
 
 | Area | Skills |
 | --- | --- |
-| **Backend Engineering** | Node.js, Express.js, REST API design, WebSockets, middleware architecture |
-| **Frontend Development** | React, Redux Toolkit, hooks, component design, performance tuning |
-| **Database & Caching** | MongoDB, Mongoose, aggregation pipelines, indexing, Redis |
-| **Security** | JWT, OAuth2, RBAC, input validation, rate limiting, OWASP practices |
-| **DevOps & Tooling** | Docker, CI/CD, Nginx, PM2, Git, Postman, Linux |
-| **Architecture** | Microservices, MVC, event-driven patterns, API versioning, scalability |
+| **Frontend** | React, Next.js, Tailwind CSS, Ant Design, React Hook Form, Three.js, pixel-perfect responsive UI |
+| **Mobile** | React Native, Expo, RevenueCat, FCM push notifications |
+| **Backend** | Node.js, Express.js, REST API design, WebSockets, polling systems, FastAPI |
+| **Databases** | MongoDB, PostgreSQL, Prisma, Firestore — schema design & query optimization |
+| **Cloud & DevOps** | GCP, App Engine, Firebase, Vercel, DigitalOcean, Cloudflare, Git/GitHub |
+| **Payments** | Stripe, Stripe Connect, PayPal Subscriptions, RevenueCat |
+| **Security** | JWT, OAuth2, RBAC, backend + frontend validation, disposable-email detection |
 
 ---
 
 # ⚙️ Tech Stack
 
-**Languages & Runtime**
+**Frontend & Mobile**
 <p>
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,threejs&perline=8"/>
 </p>
 
 **Backend & APIs**
 <p>
-<img src="https://skillicons.dev/icons?i=express,mongodb,redis,graphql&perline=8"/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase&perline=8"/>
 </p>
 
-**Frontend**
+**Databases**
 <p>
-<img src="https://skillicons.dev/icons?i=react,redux,html,css,tailwind&perline=8"/>
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,prisma&perline=8"/>
 </p>
 
-**DevOps & Tools**
+**Cloud & Tools**
 <p>
-<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,vscode,postman,linux&perline=8"/>
+<img src="https://skillicons.dev/icons?i=gcp,vercel,cloudflare,git,github,vscode,postman&perline=8"/>
 </p>
-
----
-
-# 🚀 Featured Projects
-
-| Project | Description | Stack |
-| --- | --- | --- |
-| **Enterprise REST APIs** | Production APIs with versioning, rate limiting, validation & full documentation | Node.js, Express, MongoDB |
-| **Authentication Platform** | JWT + OAuth2 auth with refresh tokens, RBAC & session management | Node.js, Redis, JWT |
-| **Backend Microservices** | Modular, independently deployable services with API gateway pattern | Node.js, Docker, Nginx |
-| **Full Stack MERN Apps** | End-to-end applications with optimized React frontends | React, Redux, Express, MongoDB |
-| **Real-Time Systems** | Live notifications & chat using WebSocket connections | Socket.io, Node.js, Redis |
 
 ---
 
@@ -137,10 +139,9 @@ const sanaUllah = {
 
 # 📚 Currently Deepening
 
-- 🏛️ **System Design** — load balancing, sharding, message queues, CAP theorem
-- 🔄 **Distributed Systems** — event-driven architecture, eventual consistency
-- ☁️ **Cloud & Infrastructure** — container orchestration, deployment automation
-- 📐 **API Design at Scale** — GraphQL federation, gRPC, API gateways
+- 🏛️ **System Design** — load balancing, high-traffic API architecture, caching strategies
+- 🔄 **Scalable Backend Patterns** — queues, rate limiting, horizontal scaling
+- 🖥️ **Desktop Applications** — Electron & Tauri for cross-platform systems
 
 ---
 
