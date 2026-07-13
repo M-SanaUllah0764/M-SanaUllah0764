@@ -150,11 +150,22 @@ const sanaUllah = {
 <p align="left">
 <a href="https://github.com/M-SanaUllah0764">
 <img src="https://skillicons.dev/icons?i=github" height="40"/>
-</a>
-<!-- Add LinkedIn -->
-<!-- <a href="https://linkedin.com/in/yourname">
+</a>&nbsp;
+<a href="https://www.linkedin.com/in/m-sanaullah-eng/">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
-</a> -->
+</a>&nbsp;
+<a href="https://cheerful-sable-a1fb7b.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" height="40"/>
+</a>&nbsp;
+<a href="mailto:msanaullah7262@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="40"/>
+</a>
+</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/m-sanaullah-eng/"><img src="https://img.shields.io/badge/LinkedIn-m--sanaullah--eng-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+<a href="https://cheerful-sable-a1fb7b.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-2c5364?style=flat-square&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:msanaullah7262@gmail.com"><img src="https://img.shields.io/badge/Email-msanaullah7262%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
